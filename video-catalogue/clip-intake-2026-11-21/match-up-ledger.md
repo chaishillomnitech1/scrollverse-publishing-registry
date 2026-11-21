@@ -1,0 +1,88 @@
+# Clip Catalog — Match-Up Ledger
+
+**Prepared:** 21 Nov 2026
+**Scope:** 50 clips — BIKE-01 + B1-01–B1-10 + B2-01–B2-09 + B3-01–B3-10 + B4-01–B4-10 + B5-01–B5-10 (726.67s / ~12:07)
+**Composition text:** `clip-catalog-composition-text.md` — 3,986 words, SHA-256 `66e5a9ce25eae72377facd8060d8507d6e7b4480b680ae7bff1f2f426c53444c`
+**Vydia pack:** `clip-catalog-vydia-registration-pack.md`
+**Catalog:** `catalog.md` (50 rows, verified)
+
+## Rules
+
+- **Never invent a tracking number.** "Not found in completed searches" means: GitHub keyword search (clip SHA hashes + clip IDs, `user:chaishillomnitech1`) returned 0 hits, and the OMNI tracking-ledger system exists in GitHub (772 hits, e.g. `Expansion-` repo `TRACKING_LEDGERS/`) but no OMNI number ties to any of these clips. **Workspace greps were still running when this ledger was written** — if they land any Omni numbers, this ledger gets a v2 with the numbers filled in and the composition text is re-issued (new SHA) before the Vydia run.
+- **One work, register once:** B1-07 + B3-04 are the same Codex Legio 1516 poster (same 44.63s, different files) — one work, one Vydia registration. Both rows below carry the same Vydia file ID / ISRC once it lands.
+- **Mark every unverified cell as pending; never present a pending item as done.**
+- **ASCAP:** pending — delivery runs through Vydia; verify later, separately. Do NOT file anything with ASCAP directly.
+- **Zenodo:** BLOCKED — account email not confirmed (playbook §5 blocker 2). Do not attempt a deposit.
+- **OpenTimestamps:** UNAVAILABLE — no `ots` tooling on this machine (no binary, no Python module). Record as unavailable, not done.
+
+## Ledger
+
+| Clip ID | SHA-256 | Omni tracking number | Vydia file ID / ISRC | ASCAP delivery | Git head SHA | Zenodo / OpenTimestamps |
+|---|---|---|---|---|---|---|
+| BIKE-01 | `fa45dca42783d9abe2792ee5276bfa5141627ffa2dbb5646d603d6062f95f713` | not found in completed searches | pending — browser run after SYNC RESEARCH | pending — via Vydia | pending — to be filled after push | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B1-01 | `0bb21b96d91c371e1c1364a9b193b1396975d78c8d0d6171adc86d2f93ef3496` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B1-02 | `570b9a4178fa35af92688f296e7bf858f2432303c81c23308796dc32671dcd64` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B1-03 | `dc16391217c741fac4f4ce8ba219f35ff8dcda2b79928b2916e4d9fc3088998d` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B1-04 | `cb3e3c73c1d49c40cc0ec96ce40be215c7cf63c730af9fe8d2f255532306c06c` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B1-05 | `1398497a962c05159b48234361ed84642cb820dd4f4caf44ff5e719affb27d96` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B1-06 | `8f9398a972dff97b21ce2208903c64d00367ee49dc147700b09b851a88089bd3` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B1-07 | `17e7007765dcb62817d05fa7faadabf36fb903f9d4378a003a9244872eacb65c` | not found in completed searches | pending — same work as B3-04, register ONCE | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B1-08 | `ad719316269af3a2238474f32132425f79c44370434b11422067924e998e0b68` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B1-09 | `97a8dda006a8cdc2a27eae1a1452d8abe4f7adb44b587929783bbd04640a9933` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B1-10 | `87fb07200e320455dd78c554b13d04ae91143c8b15efe18d261e060655ecaebd` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B2-01 | `9e5035b58f33533406d13e0ad652ee02c62aa4baa092e8ecb5aaf11cbdc99a9e` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B2-02 | `8cc3b8f3b8ea0ef4f5bf92df91a02066a35fe9e227f3c5e24cd563e98a639055` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B2-03 | `1cdac81425b77b951c922c26f10e6e0f5ba4bb675ebe4e9c63be146383e06349` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B2-04 | `f3cdddf4f0636beea0e2579cc33c34c8c1d99c69f42eac89f9828f0d7e907e30` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B2-05 | `45c1a7aa998faac31bbd285f4a0921b146b64f19e29d861dab8d37c5df71e140` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B2-06 | `eb5212cc70bfd1eed836e51b3448b46960297e65a73e0327183e601d29b501a9` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B2-07 | `36bff0f500a33d944073a8283135444eb4c5c91930e870fc2ef8ac5631d1064b` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B2-08 | `71e63ec9f2492446de67d052412e348fb5a8d8e0a060d2ede74499b61933ae52` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B2-09 | `bb14ba3d7baccbba0615c5fc005a747b88fe785d944b048776f2a6ea33a9ba89` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B3-01 | `a2bf182e98c4e22e7869759212a4c1542de70ce038c525128eb77459ab52efca` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B3-02 | `0a80a16e76b311af02d6f94b2b670878b33d86da159ff64af80f823a3488679a` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B3-03 | `4c9f2bdf89f13fa5e2fe6ecf4d968ccb952c23458dd93a4ae414ca4bdcba989f` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B3-04 | `3c79e5b12a8be86ed2649b17b8186e309bd0b5e0477c0050065c7a4a21b69ee2` | not found in completed searches | pending — same work as B1-07, register ONCE | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B3-05 | `201b016239e54b040971c8d6c996eb99d469e1f038dc3ef1254ff0c3bfaae884` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B3-06 | `d2d35090f4d352007eead4a28846c8485e7899918ac28239e40661c014f7f165` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B3-07 | `3290e119f2c8c11f25b1f88dc4b171c49108ce7a62b97aaa44afdefd4fb54678` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B3-08 | `7f180af2d04d78adbc9c535a1abad9c1846c73574e94300ab6435e666821bdb9` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B3-09 | `7e6ba46a0c86695f1d9383e3c6faaa90d7734a78d7fa91cdb14779e34cb741b5` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B3-10 | `a9e6736a136393fcdf07a1d948f88937fea6237cd3ec5efbdc5b24db072951bf` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B4-01 | `28c826882c0e128354fc4e91f5bc16924b736977c1c999cc0ce91263b7295df0` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B4-02 | `f1a6d99bb6f96d4ddfcc79ea8be86b86d1af0dd7b711239e52b0ac842866fe34` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B4-03 | `2647c15d5c6e04ac25131b3961de291c2db4c83e2d04172e3b9c4d2e2f8cb909` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B4-04 | `d8556d0e501c697a2094f5be59625a621ae93a7010b4f334947254a8b0fd6838` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B4-05 | `35d80f68ac0357857a049240ec4be1b668ccc6fd508dc57f83611016c8b3decb` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B4-06 | `cacb561335f33a366074d1b05c57866f2555ce36877202445873b83d5703e78b` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B4-07 | `2a77f5e3c58085608954d817fccc1195c03deaad5894d1fc9f73a7c9a07ab6da` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B4-08 | `4f3bee87968726799c7af9af6d412abbd279a3bb8f300633d8470acaac7f4cc2` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B4-09 | `bf3a8a1870d6eacea18f3678cbaf31e45d67e4248cf5bff34b638f365cdbb052` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B4-10 | `de8f8dee6f1f0a96b73f1f74bc19fbec6240772e2fd03fda28c6118ffae9d364` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B5-01 | `f1b53f849c3487eb555298f66643f797c67c1c8a99469e81db086de4c5e6075e` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B5-02 | `7908103f315c2c58494e6aec73e3caf5b077e8236d8b87e3741d2e11089371f7` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B5-03 | `bc79e59db51517038b73420f048a514a192be766c2e8e0d85b88bce01d556089` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B5-04 | `0adf5f26576212a4a1ba7bd8fe5ef8de3e3bff1ccff3590977464e361838a582` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B5-05 | `068894d75c85f901b101339cfaec34f3d629cea90c75072a31102dca8c93680a` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B5-06 | `3f6ef7f28e9a6322435b4d6a91db9e0521452f46313cbc256e569e7f3e481934` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B5-07 | `79a3ce974a6564b5708c390f75ed3ce97d2cd1abe844c0a68397ecc88c4a89d2` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B5-08 | `a9a6630c5e10ee61a1474c055854b182e0568fa2e1569e908697cc5f9a177420` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B5-09 | `f686ac2339adc38e414f75acdd2a6fa103cb9cfdf9ea5543585a1f951c643213` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+| B5-10 | `2bfc389d7f769619393b9b19c6aa41dfe89f7e84530d48269b5b675da74f67a4` | not found in completed searches | pending | pending — via Vydia | pending | Zenodo BLOCKED / OTS UNAVAILABLE |
+
+## What does not match up (flags for Chais)
+
+1. **Omni tracking numbers: 0 of 50 found.** Chais's direction said the clips are documented in his records with Omni tracked numbers. GitHub keyword search (clip hashes, clip IDs) returns 0 hits, and no OMNI number ties to any clip in the OMNI tracking-ledger system found in GitHub. Workspace greps were still running at ledger time — if they find numbers, this ledger gets a v2. Until then, every Omni cell is "not found in completed searches", never invented.
+2. **B1-07 + B3-04 duplicate work** — same Codex Legio 1516 poster, same 44.63s, different files. Register once.
+3. **Chronovisor studies/blueprints — gap flagged, not guessed.** No dedicated Chronovisor tech-study or blueprint document found by keyword in GitHub or workspace. On file: the Chronovisor artifact, the PRD PDF, the real-and-mysterious-events doc, and now Copilot's ChronovisorTech manifesto record (`~/workspace/chronovisor-tech-2026-11-21/copilot-manifesto-record-2026-11-21.md`). Chais says he knows how to get the studies/blueprints.
+4. **ChronovisorTech repo — does NOT exist.** Independent repo search (21 Nov ~15:50 EST): 0 results for `CronovisorTech` and `ChronovisorTech` under `user:chaishillomnitech1`, 0 globally for either name, 0 for `chronovisor in:name` under his account. Never present `github.com/chaishillomnitech1/CronovisorTech` as live. Spelling: his record spelling is **Chronovisor** (Ch); **CronovisorTech** (O) came from his Copilot prompt — the repo name is HIS pick.
+5. **Vydia / ASCAP / Git:** all pending at ledger time. Vydia registration waits on the SYNC RESEARCH run. ASCAP delivery is verified later, separately — nothing filed with ASCAP directly.
+6. **Zenodo / OpenTimestamps:** Zenodo blocked (email not confirmed); OpenTimestamps unavailable locally (no `ots` tooling).
+
+## Seal status (21 Nov 2026)
+
+- **Vydia:** NOT registered yet — pack ready, run waits on SYNC RESEARCH.
+- **ASCAP:** NOT delivered yet — delivery via Vydia only.
+- **Git:** push in progress — head SHA to be filled after the push + read-back verification.
+- **Zenodo:** BLOCKED (email not confirmed).
+- **OpenTimestamps:** UNAVAILABLE (no tooling locally).
