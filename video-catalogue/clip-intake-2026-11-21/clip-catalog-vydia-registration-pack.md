@@ -115,12 +115,15 @@ Total runtime 726.67s (~12:07). Every clip is carried whole in the composition t
 - **The $21.719 figure** in B4-06 ("GALACTIC COURT" check) is text shown on screen in the clip, not a verified amount.
 - **Contest separation:** the Higgsfield Talent Contest entry (Black Atlantic City) is built from Higgsfield generations/edits only. Intake clips enter that film only via a Qualifying Higgsfield Edit, on Chais's go-ahead — never as-is.
 
-## Git (Step 1 — to be filled after the push)
+## Git (Step 1 — PUSHED + READ-BACK VERIFIED 21 Nov 2026 ~15:56 EST)
 
 - **Registry head before push:** e3c684808c6bf7baeda4cf9ff2a0637b2d7156ce (verified live 21 Nov ~15:06 EST; "Sync research: SYNC RESEARCH composition (5 entries, 2290 words) + index + registration pack")
-- **Files to push under `video-catalogue/clip-intake-2026-11-21/`:** catalog.md, clip-catalog-composition-text.md, first-creation-plan.md, README.md, clip-catalog-vydia-registration-pack.md, match-up-ledger.md
-- **Git commit SHA:** [to be filled]
-- **Read-back verification:** [yes/no — composition text read back live from the repo, all 50 entries whole]
+- **Files pushed under `video-catalogue/clip-intake-2026-11-21/`:** catalog.md, clip-catalog-composition-text.md, first-creation-plan.md, README.md, clip-catalog-vydia-registration-pack.md, match-up-ledger.md
+- **Seal commit SHA:** 6f33ceebd5455f1b7c59b5d30eef6691273302b7 ("Clip catalog: CLIP CATALOG composition (50 clips, 3986 words) + catalog + Vydia pack + match-up ledger", 2026-11-21T20:56:14Z)
+- **Read-back verification:** YES — 21 Nov ~15:56 EST, the composition text read back live from the repo hashes to `66e5a9ce25eae72377facd8060d8507d6e7b4480b680ae7bff1f2f426c53444c` — identical to local; all 50 entries present. (Word count is `wc -w`, same convention as the sync-research pack; Python's `split()` counts 4,124 on the same bytes — a tokenizer difference, not a text difference; SHA-256 is the pin.)
+- **First push note:** the first push attempt was interrupted by a service restart before it landed (head confirmed unchanged at e3c68480); the retry landed as the seal commit above. The restart also wiped `/tmp`, so the `.paths` manifest was rebuilt before the retry.
+- **Follow-up commit (this pack + the ledger, updated with the seal-commit SHA + the B3-06 prior-record finding):** [to be filled after the second push]
+- **B3-06 prior record (found after the seal push, carried in the ledger + this pack — no composition-text v2 needed, because no Omni number was found):** `~/workspace/goals/super-scrollverse-site/extraction-2026-11-20/repo/docs/source-review-nov1/phase1013-sana-agent25-manifest.json`, line 13 — `{"filename":"video(32).mp4","byteCount":3576637,"sha256":"d2d35090f4d352007eead4a28846c8485e7899918ac28239e40661c014f7f165"}` — the full SHA-256 of B3-06, and the local file is exactly 3,576,637 bytes. B3-06 was already in his records: uploaded to the Manus scrollverse-co site as "video(32).mp4", captured in the Nov 1 source-review manifest. No Omni tracking number is attached to that entry.
 
 ## Vydia (Step 2 — WAITING on the SYNC RESEARCH run)
 
