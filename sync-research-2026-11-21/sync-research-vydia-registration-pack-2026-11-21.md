@@ -10,12 +10,12 @@
 - **Title (Vydia):** "SYNC RESEARCH"
 - **Author / Composer:** Chais Kenyatta Hill (Chais the Great)
 - **Entity:** ScrollVerse LLC
-- **Text:** `vydia-sync-research-composition-text.md` in this folder — all five sync entries whole, in chronological order.
-- **Word count:** 2,290 words
-- **SHA-256:** `9d63af55921dcc79a0e9f80d1b9f09377d19775c53451a72ded6bed5bfb134d1`
+- **Text:** `vydia-sync-research-composition-text.md` in this folder — all six sync entries whole, in chronological order.
+- **Word count:** 2,741 words
+- **SHA-256:** `94c7ae473f43fab42122000ee834ff5f86fd64d535ad91c33f197d5254bfb00a`
 - **Local folder:** `~/workspace/sync-research-2026-11-21/`
 
-## The five entries inside (chronological order)
+## The six entries inside (chronological order)
 
 | # | Date | Title | Words | SHA-256 (pre-seal) |
 |---|---|---|---|---|
@@ -24,8 +24,9 @@
 | 003 | 21 Nov 2026, ~09:06–09:21 EST | The Jesus Movie Popped Up | 446 | `b2612944…` |
 | 001 | 21 Nov 2026, ~14:09–14:11 EST | The New God of the New Universe | 509 | `9d285e8a…` |
 | 005 | 21 Nov 2026, ~14:20 EST | The House Shakes and the Energy Surges | 450 | `9ec8ef3e…` |
+| 006 | 21 Nov 2026, ~16:11–16:15 EST | The Thank You That Answered Instantly | 437 | `168624b7…` |
 
-The fragments (F-01–F-33) are listed in `index.md` only — they are NOT in the composition text. The composition carries the five full entries, whole, nothing trimmed, nothing invented.
+The fragments (F-01–F-33) are listed in `index.md` only — they are NOT in the composition text. The composition carries the six full entries, whole, nothing trimmed, nothing invented.
 
 ## Vydia fields (same as J-13, file 4975058 / ISRC QZQAY2628864)
 
@@ -61,13 +62,16 @@ The fragments (F-01–F-33) are listed in `index.md` only — they are NOT in th
 - **The $21.6T figure** in entry 004 is his stated figure (FLM4 / ZERO Flame, from GitHub), not a verified valuation.
 - **Entry 002's source note:** the transcript file is named 2026-11-20, but the timestamps inside read 2026-11-19 12:56 EST — the timestamp inside the file is the record used.
 
-## Git (Step 1 — BLOCKED, 21 Nov 2026 ~14:20 EST)
+## Git (Step 1 — BLOCKED 21 Nov 2026 ~14:20 EST, then UNBLOCKED + PUSHED ~15:05 EST)
 
-- **Push FAILED with 403.** `push-files` to chaishillomnitech1/scrollverse-publishing-registry, branch main, 7 files: "failed to create tree: POST https://api.github.com/repos/chaishillomnitech1/scrollverse-publishing-registry/git/trees: 403 Resource not accessible by integration []". Per the run's instruction, stopped — no loop, no alternate path tried.
-- **Why:** the Meta Muse AI GitHub App installation covers only 6 repos (scrollverse-web-app, quantum-resonance, decentralized-melody, gamenight, recipesage, scrollverse-co). scrollverse-publishing-registry is NOT selected, so the App cannot write to it.
-- **Registry head verified unchanged:** 26a0da9cee2925436f3d73116496cc6d73af4748 ("Restore Mirror Twin paragraphs and blank lines lost in Seal J-13 edit", 2026-11-21T07:30:25Z). Nothing landed.
-- **Unblocker:** his tap to add scrollverse-publishing-registry to the App installation (https://github.com/settings/installations/182986188 — same route used for scrollverse-web-app on 21 Nov ~13:48 EST), OR the GitHub web UI route (his chosen route per the playbook, with line-by-line verification after every edit). The parent agent decides; this run did not try either.
-- **Git commit SHA:** NONE — no commit landed.
+- **First push FAILED with 403.** `push-files` to chaishillomnitech1/scrollverse-publishing-registry, branch main, 7 files: "failed to create tree: POST https://api.github.com/repos/chaishillomnitech1/scrollverse-publishing-registry/git/trees: 403 Resource not accessible by integration []". Per the run's instruction, stopped — no loop, no alternate path tried.
+- **Why:** the Meta Muse AI GitHub App installation covered only 6 repos (scrollverse-web-app, quantum-resonance, decentralized-melody, gamenight, recipesage, scrollverse-co). scrollverse-publishing-registry was NOT selected, so the App could not write to it.
+- **Registry head verified unchanged at the time:** 26a0da9cee2925436f3d73116496cc6d73af4748 ("Restore Mirror Twin paragraphs and blank lines lost in Seal J-13 edit", 2026-11-21T07:30:25Z). Nothing landed.
+- **Unblocker — DONE 21 Nov ~15:02 EST:** Chais chose "Add the registry the same way you did scrollverse-web-app" and the browser added scrollverse-publishing-registry to the App installation (https://github.com/settings/installations/182986188) — now **7 selected repositories**, all 6 originals kept, no permissions changed.
+- **Composition text rebuilt first (~15:05 EST):** entry 005 (450 words, SHA 9ec8ef3e…) appended in chronological order — composition text now **2,290 words, SHA-256 `9d63af55921dcc79a0e9f80d1b9f09377d19775c53451a72ded6bed5bfb134d1`**, 5 entries. Index + this pack updated to the five-entry version.
+- **Push LANDED 21 Nov ~15:05 EST:** `push-files`, branch main, **8 files** under `sync-research-2026-11-21/` (index.md, the 5 entry files, this pack, the composition text), message "Sync research: SYNC RESEARCH composition (5 entries, 2290 words) + index + registration pack". **New registry head: e3c684808c6bf7baeda4cf9ff2a0637b2d7156ce** (over 26a0da9c). Read-back verification: **YES — 21 Nov ~15:06 EST, the composition text read back live from the repo shows all 5 entries (004, 002, 003, 001, 005) whole, verbatim.**
+- **Git commit SHA:** e3c684808c6bf7baeda4cf9ff2a0637b2d7156ce
+- **Update 21 Nov ~20:33 EST:** the composition text was rebuilt to include entry 006 — now **6 entries, 2,741 words, SHA-256 `94c7ae473f43fab42122000ee834ff5f86fd64d535ad91c33f197d5254bfb00a`**. The registry copy pushed above (head e3c684808c) still holds the five-entry version — a re-push of the updated composition text, index, and this pack is needed so the registry copy matches the text that gets registered. The five-entry figures in this Git section are the historical record of the 15:05 push, not the current composition.
 
 ## Vydia (Step 2 — WAITING on the J-1/J-2 run)
 

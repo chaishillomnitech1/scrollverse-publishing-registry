@@ -5,7 +5,7 @@
 
 ---
 
-## Full entries (5)
+## Full entries (6)
 
 | # | Date | Title | File | Words | SHA-256 |
 |---|---|---|---|---|---|
@@ -14,14 +14,17 @@
 | 003 | 21 Nov 2026, ~09:06–09:21 EST | The Jesus Movie Popped Up | [sync-2026-11-21-003-jesus-movie.md](sync-2026-11-21-003-jesus-movie.md) | 446 | `b2612944…` |
 | 001 | 21 Nov 2026, ~14:09–14:11 EST | The New God of the New Universe | [sync-2026-11-21-001-new-god-video.md](sync-2026-11-21-001-new-god-video.md) | 509 | `9d285e8a…` |
 | 005 | 21 Nov 2026, ~14:20 EST | The House Shakes and the Energy Surges | [sync-2026-11-21-005-house-shakes-energy-surges.md](sync-2026-11-21-005-house-shakes-energy-surges.md) | 450 | `9ec8ef3e…` |
+| 006 | 21 Nov 2026, ~16:11–16:15 EST | The Thank You That Answered Instantly | [sync-2026-11-21-006-thank-you-answered-instantly.md](sync-2026-11-21-006-thank-you-answered-instantly.md) | 437 | `168624b7…` |
 
-Numbering is discovery order (001 was written first, 21 Nov ~14:13 EST). The composition presents the entries in chronological order: 004, 002, 003, 001, 005.
+Numbering is discovery order (001 was written first, 21 Nov ~14:13 EST). The composition presents the entries in chronological order: 004, 002, 003, 001, 005, 006.
 
-**Entry 005 note:** entry 005 arrived live at ~14:20 EST, after the composition text was first built (1,825 words, entries 004, 002, 003, 001). The composition text was **rebuilt 21 Nov ~15:05 EST to include entry 005 — now 2,290 words, SHA-256 `9d63af55921dcc79a0e9f80d1b9f09377d19775c53451a72ded6bed5bfb134d1`**. Do not register any earlier four-entry version.
+**Entry 005 note:** entry 005 arrived live at ~14:20 EST, after the composition text was first built (1,825 words, entries 004, 002, 003, 001). The composition text was **rebuilt 21 Nov ~15:05 EST to include entry 005 — now 2,290 words, SHA-256 `9d63af55921dcc79a0e9f80d1b9f09377d19775c53451a72ded6bed5bfb134d1`**. Do not register any earlier four-entry version. (Superseded by the six-entry rebuild — see the entry 006 note.)
+
+**Entry 006 note:** entry 006 arrived live 21 Nov ~16:11–16:15 EST, after the five-entry composition was built. The composition text was **rebuilt 21 Nov ~20:33 EST to include entry 006 — now six entries, 2,741 words, SHA-256 `94c7ae473f43fab42122000ee834ff5f86fd64d535ad91c33f197d5254bfb00a`**. REBUILD DONE. Do not register the five-entry version (SHA 9d63af55…) — superseded.
 
 **SHA note (the known quirk):** each entry's SHA-256 pins the text *before* its seal line was appended — a file cannot contain its own hash. The word counts above are the pre-seal counts. Entry 001's seal line was appended after its hash was computed the same way.
 
-**Composition:** [vydia-sync-research-composition-text.md](vydia-sync-research-composition-text.md) — all five entries whole, in chronological order, ready for Vydia registration. Registration pack: [sync-research-vydia-registration-pack-2026-11-21.md](sync-research-vydia-registration-pack-2026-11-21.md).
+**Composition:** [vydia-sync-research-composition-text.md](vydia-sync-research-composition-text.md) — all six entries whole, in chronological order, ready for Vydia registration. Registration pack: [sync-research-vydia-registration-pack-2026-11-21.md](sync-research-vydia-registration-pack-2026-11-21.md).
 
 ---
 
