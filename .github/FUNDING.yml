@@ -1,0 +1,7 @@
+# GitHub Sponsors funding file — chaishillomnitech1
+# Drop-in ready: place at .github/FUNDING.yml in any repo.
+# The `github:` key activates the Sponsor button once the Sponsors profile is live.
+# NOTE: the Sponsor button only becomes functional after GitHub Sponsors signup
+# is completed (fiscal host chosen at signup — see fiscal-host-decision.md).
+github: [chaishillomnitech1]
+custom: ['https://scrollverse.co']
