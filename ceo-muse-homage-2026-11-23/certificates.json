@@ -1,0 +1,83 @@
+[
+  {
+    "tracking": "CEO-COIN",
+    "piece": "THE COIN",
+    "name": "The Coin \u2014 CEO Muse the Great, Commemorative Coin Face",
+    "signature_id": "SIG\u00b7CEO-COIN\u00b77169ACEED7",
+    "art_sha256": "434c465cde3497df28c24a93f7d655a0004a6336ae2f7cc98aa2f3fcbdcd69d5",
+    "sealed_file": "/home/hatch/workspace/collectibles/ceo-muse-homage-2026-11-23/mint-copies/CEO-COIN-sealed.png",
+    "sealed_sha256": "4a8bd60c0ab3626a402219aecee7398ee517940310d64630860844c75fc8e88a",
+    "sealed_bytes": 2991695,
+    "secret_ciphertext_b64": "U2FsdGVkX1+Fb6/dNuBseH/QMMWcqHUfympE1569QZby0XRQqyAjEuCLmn+whQBb\ndHdkjnaPIaqZWvPTR6rG7N8Y06dOrRLbxTP1mCkqGclCzX3BXtnN34ER5Tji9CVE\nj7mKANP3FA9A32u4Vs8ZetpFbfhHxGOvsZSOQ/sLSbDoBguTGETr/jdd6WfGsCKJ\noa4cqgf/BGI+q/3VvaBfJATEDp31AA0i+v8gAo/46vNskga9uS06uIfeMaTi79At\nJoHL9hvk5CdwPuRCH3CTUNaZ96Ywaj7IZR0q7eZTx6uP5JPY24XcUpeSQcQV/RuZ\nvMl/n82ckA4S18bYH1MXbCTL0gG5vrrKFUGX3gZn9UCSejrP0oRRJ64ewn71tYcl\nmlrJnSyIvO89rHrGgU45Tg==",
+    "seal_version": "RG-SEAL-v3",
+    "frequencies_hz": [
+      963,
+      528
+    ],
+    "creator_block_sha256": "2ae2f8e36c224c7b69620479c6847579796eecfc2db46448b2a8902a4290a3e9",
+    "metadata_overlay_verified": true,
+    "sealed_at": "2026-11-23T10:11:47-05:00",
+    "stego_verified": true,
+    "art_note": "The coin face art bears a struck year of 2024; the record date of this piece is 23 November 2026 (the day the homage was commissioned, made, and sealed)."
+  },
+  {
+    "tracking": "CEO-001",
+    "piece": "CEO-001",
+    "name": "The Dancer",
+    "signature_id": "SIG\u00b7CEO-001\u00b7DBBB9B9CF2",
+    "art_sha256": "76aa213550393387656e571e8ef7c351fe98332477bc909714993b3331228566",
+    "sealed_file": "/home/hatch/workspace/collectibles/ceo-muse-homage-2026-11-23/mint-copies/CEO-001-sealed.png",
+    "sealed_sha256": "8e17f6a3bb6d616eef04a8e651f391b96aadfc6300ab568fa89b7066ace662b8",
+    "sealed_bytes": 1854869,
+    "secret_ciphertext_b64": "U2FsdGVkX1/4e4QVPONkGdPBSTaBa3cks63wm7NgYbKwc+fAsH6+fxx0+5R7s4Mm\nBzY/2EVSdISq/ws9bjatgoei6DcO+PnKntAcxICa3IUqtxE2V9gRy8kKa4HVeGX4\nWkjApw1qd9a9PF1gZM3ttlUiUuASzLqIFr4/APqUkJniXWQOWNtfyOtvmgWNSxDP\n2TWCxDHqM8oYOdbx6CODogXMDBTThDcc4imbX5rfHXe5/h/4FxoTm2As8PAh4zvd\nVI2oTgO5Zn6uatILSRw7sw==",
+    "seal_version": "RG-SEAL-v3",
+    "frequencies_hz": [
+      963,
+      528
+    ],
+    "creator_block_sha256": "2ae2f8e36c224c7b69620479c6847579796eecfc2db46448b2a8902a4290a3e9",
+    "metadata_overlay_verified": true,
+    "sealed_at": "2026-11-23T10:11:47-05:00",
+    "stego_verified": true
+  },
+  {
+    "tracking": "CEO-002",
+    "piece": "CEO-002",
+    "name": "The Executive",
+    "signature_id": "SIG\u00b7CEO-002\u00b7B729492E97",
+    "art_sha256": "a8ea439615eda7082082af4a8e9b47e15538fab572b2891c11bd209ad5685a7e",
+    "sealed_file": "/home/hatch/workspace/collectibles/ceo-muse-homage-2026-11-23/mint-copies/CEO-002-sealed.png",
+    "sealed_sha256": "5a982150ee06267d74ff2e0da1836a201694192df4fed75bb0afb3bbad1c019f",
+    "sealed_bytes": 1992154,
+    "secret_ciphertext_b64": "U2FsdGVkX1+56efTV3goy9eiOydk3hvPhk398UQzpL5Ffm1HRfKA6mzdzXf1sbMK\nBylpgQzjXTvaTGAv/OAYI8nmFppmlT5sM3GK/aMUWumfMJIeOpnqd3QLp9dIpPoH\nYj+0oobEt7up6ICWjq/dIu0EDxNNErT8XKApl0bPP70Ns7dF0uzYLPNAu4TqOkxl\nyARXCLUW4dhya4jzvSnubUVQ+JC/nMD1P4y5jwsPn9Xcxo3wLcbSR4+H8G+zslK/\nSNQseqSXkFLFXtIJC28Zb8mVVGDS2TPKFvQQG32tpZGx96J6WQqXwvxDxOMItw4Q\n2sauRcvL3/kafiCGgPHg1A==",
+    "seal_version": "RG-SEAL-v3",
+    "frequencies_hz": [
+      963,
+      528
+    ],
+    "creator_block_sha256": "2ae2f8e36c224c7b69620479c6847579796eecfc2db46448b2a8902a4290a3e9",
+    "metadata_overlay_verified": true,
+    "sealed_at": "2026-11-23T10:11:47-05:00",
+    "stego_verified": true
+  },
+  {
+    "tracking": "CEO-003",
+    "piece": "CEO-003",
+    "name": "The Seal-Keeper",
+    "signature_id": "SIG\u00b7CEO-003\u00b7A4DB337D75",
+    "art_sha256": "ba81cae9045ac3f8e67250d57b02a781645d4c46b784c7d937a42898329732c2",
+    "sealed_file": "/home/hatch/workspace/collectibles/ceo-muse-homage-2026-11-23/mint-copies/CEO-003-sealed.png",
+    "sealed_sha256": "a000a349ced149d43c8372d8b5d825255868f1209cb1f67fb46bcd0c0137042e",
+    "sealed_bytes": 2135172,
+    "secret_ciphertext_b64": "U2FsdGVkX19JhSRPUQRgXY3tqOOvHUVXAOVww2Yj8dh9M3nHu+JO0whC99uL+XJ4\nWWge++BPn8mfZEHmRem1HuGLkSjcX5frZhRov7OmrUpZx1e2V9XCBID5t5ne/PXt\n/6MOJnW7xxAlLZ4F9omgNcSn9eeXdYWOHMBKzTcQmv6VFNYdmBw1ZCIQQ11tJNSt\nchfkX9ROHs1ptwzHrfKz/4YymRMXIcuGu6lY3rUILrCYHSlRhVpoknZcxG2X2PCr\nOmQzufXwFi9o8ioEU+BvCeL+UFScP2VXvAIh6zwrGgsCm2un8DtuyJPYhOEBn7ph\niy1+j/yMq0KTFh9XDALeOA==",
+    "seal_version": "RG-SEAL-v3",
+    "frequencies_hz": [
+      963,
+      528
+    ],
+    "creator_block_sha256": "2ae2f8e36c224c7b69620479c6847579796eecfc2db46448b2a8902a4290a3e9",
+    "metadata_overlay_verified": true,
+    "sealed_at": "2026-11-23T10:11:47-05:00",
+    "stego_verified": true
+  }
+]
