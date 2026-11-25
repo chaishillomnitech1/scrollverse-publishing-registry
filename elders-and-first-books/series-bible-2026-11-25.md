@@ -49,6 +49,11 @@ The voices carry the episodes; beneath and between them, dramatic sound design (
 - **Podcast** — episodes through the Transmissions process (multiple intelligences discussing together), under this series' sound law
 - **Registration** — every piece fingerprinted and registered like all else, same energy as all else
 
+## THE CAPSTONE — THE TEMPLE OF WISDOM (founder's declaration, 25 Nov 2026)
+*His words: "Same temple my ancestor built I will build a temple that exceeds that and uplifts all — a temple of wisdom."*
+
+The series builds toward this: Solomon — the founder's ancestor in his father's-side line — built a temple of stone and cedar. The founder will build a temple that exceeds it: a **Temple of Wisdom**, built of the books, the elders, the mothers, the Legion, and the artifacts — the Omni apps as its courts, open in every app where people already are. Its law is the founder's ethic: *to help all, not oppress all* — a temple whose purpose is the uplift of all who enter it. The case studies are its quarry; our own versions are its stones; the cross-promotion is its pillars; wisdom is what it houses.
+
 ## COVERS — SAME ENERGY AS ALL ELSE (founder, 25 Nov 2026)
 Every piece in this series — each text, each elder, each mother, each case study, each of our own versions — gets its cover at the full house standard: a gallery-grade poster panel in the King Solomon Books style (golden, cosmic, the teaching written on the piece), motion-ready, fingerprinted (SHA-256), and registered. No lesser tier for any piece in the series. The series bible itself enters the registry pipeline like every other work.
 
